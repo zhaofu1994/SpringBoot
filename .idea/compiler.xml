@@ -23,13 +23,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="SpringBoot1" />
+        <module name="SpringBoot2" />
         <module name="SpringBoot3" />
-        <module name="SpringDemo1" />
         <module name="springdemo1" />
+        <module name="SpringDemo1" />
         <module name="SpringDemo2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SpringBoot1" target="1.8" />
+      <module name="SpringBoot2" target="1.8" />
       <module name="SpringBoot3" target="1.8" />
       <module name="springdemo1" target="1.8" />
       <module name="SpringDemo1" target="1.5" />
