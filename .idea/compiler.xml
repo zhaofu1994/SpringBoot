@@ -14,18 +14,21 @@
       <entry name="!?*.aj" />
     </wildcardResourcePatterns>
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="false">
-        <processorPath useClasspath="true" />
+      <profile default="true" name="Default" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false" />
       </profile>
       <profile default="false" name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="springdemo1" />
         <module name="SpringDemo1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="springdemo1" target="1.8" />
       <module name="SpringDemo1" target="1.5" />
     </bytecodeTargetLevel>
   </component>
