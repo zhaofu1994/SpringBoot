@@ -11,7 +11,7 @@ import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(SpringDemo2Application.class)
+@SpringApplicationConfiguration(Application.class)
 public class SpringDemo2ApplicationTests {
 
 	private static final Log log = LogFactory.getLog(SpringDemo2ApplicationTests.class);
