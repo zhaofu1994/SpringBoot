@@ -9,6 +9,10 @@
         <option value="$PROJECT_DIR$/SpringDemo1/pom.xml" />
         <option value="$PROJECT_DIR$/SpringDemo2/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot3/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot4/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot2-1/pom.xml" />
       </list>
     </option>
   </component>
@@ -27,21 +31,5 @@
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

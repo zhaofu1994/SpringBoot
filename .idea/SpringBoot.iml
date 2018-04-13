@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
-  <component name="NewModuleRootManager">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/temp" />
-      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringBoot2/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringBoot2/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringBoot1/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringBoot1/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringBoot1/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringBoot2/src/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.0.0.RELEASE" level="project" />
   </component>
 </module>

@@ -25,7 +25,9 @@
         <processorPath useClasspath="true" />
         <module name="SpringBoot1" />
         <module name="SpringBoot2" />
+        <module name="SpringBoot2-1" />
         <module name="SpringBoot3" />
+        <module name="SpringBoot4" />
         <module name="springdemo1" />
         <module name="SpringDemo1" />
         <module name="SpringDemo2" />
@@ -34,7 +36,9 @@
     <bytecodeTargetLevel>
       <module name="SpringBoot1" target="1.8" />
       <module name="SpringBoot2" target="1.8" />
+      <module name="SpringBoot2-1" target="1.8" />
       <module name="SpringBoot3" target="1.8" />
+      <module name="SpringBoot4" target="1.8" />
       <module name="springdemo1" target="1.8" />
       <module name="SpringDemo1" target="1.5" />
       <module name="SpringDemo2" target="1.8" />
