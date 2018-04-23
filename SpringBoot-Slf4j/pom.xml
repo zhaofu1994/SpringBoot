@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zf.springboot</groupId>
-    <artifactId>SpringBoot2-1</artifactId>
+    <artifactId>SpringBoot-Slf4j</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>SpringBoot2-1</name>
+    <name>SpringBoot-Slf4j</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
