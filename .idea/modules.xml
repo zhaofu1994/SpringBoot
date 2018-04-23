@@ -4,11 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot1/SpringBoot1.iml" filepath="$PROJECT_DIR$/SpringBoot1/SpringBoot1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringBoot2/SpringDemo2.iml" filepath="$PROJECT_DIR$/SpringBoot2/SpringDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot2/SpringBoot2.iml" filepath="$PROJECT_DIR$/SpringBoot2/SpringBoot2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot2-1/SpringBoot2-1.iml" filepath="$PROJECT_DIR$/SpringBoot2-1/SpringBoot2-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot3/SpringBoot3.iml" filepath="$PROJECT_DIR$/SpringBoot3/SpringBoot3.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot2-1/SpringBoot3.iml" filepath="$PROJECT_DIR$/SpringBoot2-1/SpringBoot3.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot4/SpringBoot4.iml" filepath="$PROJECT_DIR$/SpringBoot4/SpringBoot4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot2/SpringDemo2.iml" filepath="$PROJECT_DIR$/SpringBoot2/SpringDemo2.iml" />
     </modules>
   </component>
 </project>
