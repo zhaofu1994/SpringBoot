@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.zf</groupId>
-	<artifactId>SpringBoot4</artifactId>
+	<artifactId>SpringBoot-Swagger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>SpringBoot4</name>
+	<name>SpringBoot-Swagger</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
