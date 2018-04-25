@@ -23,22 +23,41 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="SpringBoot-Exception" />
+        <module name="SpringBoot-Freemarker" />
+        <module name="SpringBoot-JdbcTemplate" />
+        <module name="SpringBoot-LDAP" />
+        <module name="SpringBoot-Redis" />
+        <module name="SpringBoot-Thymeleaf" />
+        <module name="SpringBoot-Velocity" />
         <module name="SpringBoot1" />
         <module name="SpringBoot2" />
         <module name="SpringBoot2-1" />
         <module name="SpringBoot3" />
         <module name="SpringBoot4" />
-        <module name="springdemo1" />
+        <module name="SpringBootJpa" />
+        <module name="SpringBootMongodb" />
         <module name="SpringDemo1" />
+        <module name="springdemo1" />
         <module name="SpringDemo2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SpringBoot-Exception" target="1.8" />
+      <module name="SpringBoot-Freemarker" target="1.8" />
+      <module name="SpringBoot-JdbcTemplate" target="1.8" />
+      <module name="SpringBoot-LDAP" target="1.8" />
+      <module name="SpringBoot-Redis" target="1.8" />
+      <module name="SpringBoot-Server" target="1.8" />
+      <module name="SpringBoot-Thymeleaf" target="1.8" />
+      <module name="SpringBoot-Velocity" target="1.8" />
       <module name="SpringBoot1" target="1.8" />
       <module name="SpringBoot2" target="1.8" />
       <module name="SpringBoot2-1" target="1.8" />
       <module name="SpringBoot3" target="1.8" />
       <module name="SpringBoot4" target="1.8" />
+      <module name="SpringBootJpa" target="1.8" />
+      <module name="SpringBootMongodb" target="1.8" />
       <module name="springdemo1" target="1.8" />
       <module name="SpringDemo1" target="1.5" />
       <module name="SpringDemo2" target="1.8" />

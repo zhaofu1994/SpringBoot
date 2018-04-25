@@ -3,12 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringBoot-HelloWorld/SpringBoot1.iml" filepath="$PROJECT_DIR$/SpringBoot-HelloWorld/SpringBoot1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Lombok/SpringBoot3.iml" filepath="$PROJECT_DIR$/SpringBoot-Lombok/SpringBoot3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Properties1/SpringBoot2.iml" filepath="$PROJECT_DIR$/SpringBoot-Properties1/SpringBoot2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Slf4j/SpringBoot2-1.iml" filepath="$PROJECT_DIR$/SpringBoot-Slf4j/SpringBoot2-1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Swagger/SpringBoot4.iml" filepath="$PROJECT_DIR$/SpringBoot-Swagger/SpringBoot4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Exception/SpringBoot-Exception.iml" filepath="$PROJECT_DIR$/SpringBoot-Exception/SpringBoot-Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Freemarker/SpringBoot-Freemarker.iml" filepath="$PROJECT_DIR$/SpringBoot-Freemarker/SpringBoot-Freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-JdbcTemplate/SpringBoot-JdbcTemplate.iml" filepath="$PROJECT_DIR$/SpringBoot-JdbcTemplate/SpringBoot-JdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-LDAP/SpringBoot-LDAP.iml" filepath="$PROJECT_DIR$/SpringBoot-LDAP/SpringBoot-LDAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Redis/SpringBoot-Redis.iml" filepath="$PROJECT_DIR$/SpringBoot-Redis/SpringBoot-Redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Thymeleaf/SpringBoot-Thymeleaf.iml" filepath="$PROJECT_DIR$/SpringBoot-Thymeleaf/SpringBoot-Thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Velocity/SpringBoot-Velocity.iml" filepath="$PROJECT_DIR$/SpringBoot-Velocity/SpringBoot-Velocity.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot2-1/SpringBoot3.iml" filepath="$PROJECT_DIR$/SpringBoot2-1/SpringBoot3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootJpa/SpringBootJpa.iml" filepath="$PROJECT_DIR$/SpringBootJpa/SpringBootJpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMongodb/SpringBootMongodb.iml" filepath="$PROJECT_DIR$/SpringBootMongodb/SpringBootMongodb.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-Properties1/SpringDemo2.iml" filepath="$PROJECT_DIR$/SpringBoot-Properties1/SpringDemo2.iml" />
     </modules>
   </component>

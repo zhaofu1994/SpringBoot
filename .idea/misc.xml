@@ -13,6 +13,15 @@
         <option value="$PROJECT_DIR$/SpringBoot1/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot2/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot2-1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Velocity/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Exception/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-JdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootJpa/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-LDAP/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootMongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Redis/pom.xml" />
       </list>
     </option>
   </component>
